@@ -1,0 +1,9 @@
+<map id="include/libPile.h" name="include/libPile.h">
+<area shape="rect" id="node2" href="$parcours_8h.html" title="déclaration des fonctions, macrofonctions et macro constantes utilisées pour le parcours d&#39;un arbre d..." alt="" coords="71,80,199,107"/>
+<area shape="rect" id="node7" href="$lib_pile_8c.html" title="code source des fonctions de la bibliothèque de TAD de gestion de piles " alt="" coords="223,80,313,107"/>
+<area shape="rect" id="node8" href="$test_pile_8c.html" title="Code source du programme de test de la bibliothèque libPile. " alt="" coords="337,80,436,107"/>
+<area shape="rect" id="node3" href="$dames_8h.html" title="Déclaration des variables et fonctions utilisées dans le programme principal. " alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node5" href="$permut_8h.html" title="Déclaration des variables et fonctions utilisées dans le programme principal. " alt="" coords="146,155,265,181"/>
+<area shape="rect" id="node4" href="$dames_8c.html" title="Contient le code source du programme recherchant toutes les permutations possibles répondant au probl..." alt="" coords="17,229,111,256"/>
+<area shape="rect" id="node6" href="$permut_8c.html" title="Contient le code source du programme recherchant toutes les permutations possibles d&#39;un mot..." alt="" coords="158,229,253,256"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="src/dames.c" name="src/dames.c">
+<area shape="rect" id="node2" href="$dames_8h.html" title="Déclaration des variables et fonctions utilisées dans le programme principal. " alt="" coords="512,80,584,107"/>
+<area shape="rect" id="node4" href="$parcours_8h.html" title="déclaration des fonctions, macrofonctions et macro constantes utilisées pour le parcours d&#39;un arbre d..." alt="" coords="177,155,260,181"/>
+<area shape="rect" id="node5" href="$lib_pile_8h.html" title="déclaration des fonctions et types de la bibliothèque de TAD de gestion de piles " alt="" coords="94,229,162,256"/>
+<area shape="rect" id="node8" href="$lib_elt_8h.html" title="déclaration des fonctions et du TAD utilisé pour les piles. " alt="" coords="187,304,250,331"/>
+</map>
